@@ -78,5 +78,5 @@ app.post("/api/documents", (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`Arx Index Lite running on port ${PORT}`);
+  console.log(`Arx Registr Lite running on port ${PORT}`);
 });
